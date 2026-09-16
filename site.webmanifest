@@ -1,0 +1,15 @@
+{
+  "name": "Фан Авто",
+  "short_name": "Фан Авто",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f2ed",
+  "theme_color": "#22352e",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
